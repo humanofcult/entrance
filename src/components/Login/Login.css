@@ -1,0 +1,32 @@
+.logoTitle
+{
+  font-family: 'Signika', sans-serif;
+  color: #333333;
+  font-size: 5rem;
+  margin-top: 5%;
+}
+
+.loginContainer
+{
+  text-align: center;
+}
+
+.loginContainer Space
+{
+  margin-top: 5%;
+}
+
+.loginContainer input::placeholder
+{
+  color: #333333;
+}
+
+.loginContainer input
+{
+  border: #676767 1px solid;
+}
+
+.loginContainer .ant-input-password
+{
+  border: #676767 1px solid;
+}
